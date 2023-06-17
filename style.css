@@ -28,6 +28,10 @@ body {
     transform: translate(-100%);
 }
 
+.show-sidebar{
+    transform: translate(0);
+}
+
 .fa-bars{
     position: fixed;
     top: 2rem;
